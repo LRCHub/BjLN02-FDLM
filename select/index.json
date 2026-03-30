@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "April Showers",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-30T13:46:40.781062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Math and Physics Club",
+      "has_synced": true,
+      "path": "select/01_April_Showers_Math_and_Physics_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Carmen Consoli",
+      "has_synced": true,
+      "path": "select/02_April_Showers_Carmen_Consoli.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Dru Hill",
+      "has_synced": false,
+      "path": "select/03_April_Showers_Dru_Hill.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Dru_Hill",
+      "has_synced": false,
+      "path": "select/04_April_Showers_Dru_Hill.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Al Jolson",
+      "has_synced": false,
+      "path": "select/05_April_Showers_Al_Jolson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little April Showers",
+      "artist": "Disney Studio Chorus",
+      "has_synced": false,
+      "path": "select/06_Little_April_Showers_Disney_Studio_Chorus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little April Showers (Bambi)",
+      "artist": "Disney Studio Chorus",
+      "has_synced": false,
+      "path": "select/07_Little_April_Showers_(Bambi)_Disney_Studio_Chorus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Proleter",
+      "has_synced": true,
+      "path": "select/08_April_Showers_Proleter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Judy Garland",
+      "has_synced": false,
+      "path": "select/09_April_Showers_Judy_Garland.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_April_Showers_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_April_Showers_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Maisie Peters",
+      "has_synced": true,
+      "path": "select/12_April_Showers_Maisie_Peters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Maisie Peters",
+      "has_synced": false,
+      "path": "select/13_April_Showers_Maisie_Peters.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Caedmon's Call",
+      "has_synced": false,
+      "path": "select/14_April_Showers_Caedmon's_Call.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "April Showers",
+      "artist": "Sugarland",
+      "has_synced": false,
+      "path": "select/15_April_Showers_Sugarland.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "April Showers (feat. Troy Ave & Sedeck Jean)",
+      "artist": "Wyclef Jean, Troy Ave & Sedeck Jean",
+      "has_synced": false,
+      "path": "select/16_April_Showers_(feat._Troy_Ave_&_Sedeck_Jean)_Wyclef_Jean,_Troy_Ave_&_Sedeck_Jean.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "April Showers",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_April_Showers_Aimer.txt"
+    }
+  ]
+}
